@@ -1,3 +1,8 @@
+// FCAI – Programming 1 – 2022 - Assignment 2  
+// Program Name: Morse Code 
+//Author: abdulaziz mohamed 
+// Last Modification Date: 23/3/2022 
+// Author1 and ID and Group:20210777
 #include<iostream>
 #include<stdio.h>
 #include<stdlib.h>
